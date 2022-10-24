@@ -1,0 +1,4 @@
+# requirements 告诉用户要下载什么
+streamlit
+pandas
+matplotlib ==3.5.1 # 说明版本
